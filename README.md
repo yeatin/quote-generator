@@ -1,5 +1,5 @@
 # Quote Generator
-Quote Generator is capable of generating random quotes, specifying the person who created the quote, and tweeting the quote you like. Powered by **Forismatic API**.
+Feeling posting profound quote from the great but no clue where to access? Quote Generator is capable of generating random quotes, specifying the person who created the quote, and tweeting the quote you like. Powered by **Forismatic API**.
 ## Built With
 * Javascript
 * HTML
