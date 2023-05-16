@@ -34,7 +34,7 @@ const getQuote = async () => {
     const url =
         'http://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=en';
     const corsUrl =
-        'https://lit-waters-04527.herokuapp.com/';
+        'https://cors-anywhere.herokuapp.com/';
     try {
         const res = await fetch(corsUrl + url);
         const data = await res.json();
